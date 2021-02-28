@@ -92,10 +92,6 @@
   align-items: center;
 }
 
-.two-columns_pos_center {
-  /* margin: 100px 0; */
-}
-
 .two-columns__brief {
   width: 175px;
   height: 100%;
@@ -270,9 +266,6 @@
 
 .table__text_theme_dark {
   color: #fff;
-}
-
-.table__heading_theme_dark {
 }
 
 .footer {
