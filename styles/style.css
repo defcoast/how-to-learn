@@ -187,7 +187,7 @@
 
 /* --- БЛОК FEYNMAN --- */
 .feynman {
-  height: 790px;
+  min-height: 790px;
   padding-top: 100px;
   background-color: #f2f2f2;
   display: flex;
