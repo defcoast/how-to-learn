@@ -22,6 +22,17 @@
 /* БЛОК DESCRIPTION */
 @import url(../blocks/description/description.css);
 
+/* БЛОК TECHNIQUES */
+@import url(../blocks/techniques/techniques.css);
+
+/* БЛОК CARDS */
+@import url(../blocks/cards/cards.css);
+/* элементы блока */
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__description/cards__description.css);
+
 /* БЛОК TWO-COLUMNS */
 @import url(../blocks/two-columns/two-columns.css);
 /* элементы блока */
