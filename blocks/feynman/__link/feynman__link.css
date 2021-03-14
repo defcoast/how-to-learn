@@ -1,6 +1,6 @@
 .feynman__link {
   margin: 0;
-  color: #2f80ed;
+  color: #2f81ed;
   text-decoration: none;
   line-height: 51px;
   font-size: 36px;
@@ -8,4 +8,9 @@
   position: absolute;
   right: 48px;
   top: 50%;
+}
+
+.feynman__link:hover {
+  opacity: 0.4;
+  transition: opacity 0.8s ease;
 }

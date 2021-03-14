@@ -10,6 +10,9 @@
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 
+/* БЛОК ROTATE */
+@import url(../blocks/rotation/rotation.css);
+
 /* БЛОК LOGO */
 @import url(../blocks/logo/logo.css);
 /* модификаторы блока */
