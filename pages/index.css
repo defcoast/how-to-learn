@@ -25,6 +25,15 @@
 /* БЛОК TECHNIQUES */
 @import url(../blocks/techniques/techniques.css);
 
+/* БЛОК VIDEO */
+@import url(../blocks/video/video.css);
+/* элементы блока */
+@import url(../blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
+
+/* БЛОК OAKLEY */
+@import url(../blocks/oakley/oakley.css);
+
 /* БЛОК CARDS */
 @import url(../blocks/cards/cards.css);
 /* элементы блока */
