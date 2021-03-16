@@ -1,6 +1,5 @@
 .cards__item {
-  flex-basis: 240px;
-  /* border: 1px solid black; */
+  max-width: 240px;
   margin-right: 100px;
   display: flex;
   flex-direction: column;

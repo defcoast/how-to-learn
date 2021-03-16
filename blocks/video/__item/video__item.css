@@ -1,0 +1,7 @@
+.video__item {
+  padding-right: 20px;
+}
+
+.video__item:last-child {
+  padding-right: 0;
+}

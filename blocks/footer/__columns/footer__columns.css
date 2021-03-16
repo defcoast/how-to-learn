@@ -1,6 +1,5 @@
 .footer__columns {
-  min-height: 305px;
-  box-sizing: border-box;
+  min-height: 250px;
   margin: 0 auto;
   padding: 60px 0 40px 0;
   width: 90%;
